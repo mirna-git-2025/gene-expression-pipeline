@@ -1,4 +1,4 @@
-# Bioinformatics Pipeline Tutorial
+# Gene Expression Pipeline Tutorial
 
 ## Topics Covered
 - Gene expression simulation  
