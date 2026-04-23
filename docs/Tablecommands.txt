@@ -1,9 +1,0 @@
-| Task                             | Command                  |
-| -------------------------------- | ------------------------ |
-| List installed Python versions   | `py -0`                  |
-| List versions with paths         | `py -0p`                 |
-| Run script with default Python   | `py script.py`           |
-| Run script with specific version | `py -3.11 script.py`     |
-| Run inline Python command        | `py -c "print('Hello')"` |
-| Launch IDLE (default)            | `py -m idlelib`          |
-| Launch IDLE (specific version)   | `py -3.11 -m idlelib`    |
