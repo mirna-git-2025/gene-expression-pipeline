@@ -1,0 +1,6 @@
+sample_id,species,mass,volume 
+S1,Escherichia coli,1.2,0.5
+S2,Staphylococcus aureus,1,0.4
+S3,Bacillus subtilis,1.3,0.6
+S4,Aspergillus fumigatus,0.9,0.3
+S5,Candida albicans,1.1,0.5
